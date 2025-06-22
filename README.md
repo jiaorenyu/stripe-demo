@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 多语言多币种支付演示
 
 这是一个展示多语言和多币种支付功能的演示应用，使用 Stripe 和 i18next 构建。
@@ -182,3 +183,6 @@ npm run build
 ## 许可证
 
 MIT License 
+=======
+# stripe-demo
+>>>>>>> origin/main
