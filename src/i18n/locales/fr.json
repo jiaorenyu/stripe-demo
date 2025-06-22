@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "Démo de Paiement Multi-Devises",
+    "subtitle": "Découvrez des paiements fluides en plusieurs langues et devises"
+  },
+  "language": {
+    "switch": "Changer de Langue",
+    "english": "English",
+    "chinese": "中文",
+    "spanish": "Español",
+    "french": "Français"
+  },
+  "payment": {
+    "title": "Choisissez Votre Paiement",
+    "selectCurrency": "Sélectionner la Devise",
+    "amount": "Montant",
+    "payNow": "Payer Maintenant",
+    "processing": "En cours...",
+    "success": "Paiement Réussi !",
+    "error": "Échec du Paiement",
+    "description": "Forfait Service Premium"
+  },
+  "currency": {
+    "usd": "Dollar Américain",
+    "eur": "Euro",
+    "cny": "Yuan Chinois",
+    "jpy": "Yen Japonais",
+    "gbp": "Livre Sterling"
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "multiCurrency": "Support Multi-Devises",
+    "multiCurrencyDesc": "Acceptez les paiements dans les principales devises mondiales",
+    "multiLanguage": "Interface Multi-Langues",
+    "multiLanguageDesc": "Expérience fluide en plusieurs langues",
+    "secure": "Paiements Sécurisés",
+    "secureDesc": "Alimenté par Stripe pour une sécurité maximale"
+  }
+} 

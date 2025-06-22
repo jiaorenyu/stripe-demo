@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "Multi-Currency Payment Demo",
+    "subtitle": "Experience seamless payments in multiple languages and currencies"
+  },
+  "language": {
+    "switch": "Switch Language",
+    "english": "English",
+    "chinese": "中文",
+    "spanish": "Español",
+    "french": "Français"
+  },
+  "payment": {
+    "title": "Choose Your Payment",
+    "selectCurrency": "Select Currency",
+    "amount": "Amount",
+    "payNow": "Pay Now",
+    "processing": "Processing...",
+    "success": "Payment Successful!",
+    "error": "Payment Failed",
+    "description": "Premium Service Package"
+  },
+  "currency": {
+    "usd": "US Dollar",
+    "eur": "Euro", 
+    "cny": "Chinese Yuan",
+    "jpy": "Japanese Yen",
+    "gbp": "British Pound"
+  },
+  "features": {
+    "title": "Features",
+    "multiCurrency": "Multi-Currency Support",
+    "multiCurrencyDesc": "Accept payments in major currencies worldwide",
+    "multiLanguage": "Multi-Language Interface",
+    "multiLanguageDesc": "Seamless experience in multiple languages",
+    "secure": "Secure Payments",
+    "secureDesc": "Powered by Stripe for maximum security"
+  }
+} 

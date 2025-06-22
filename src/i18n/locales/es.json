@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "Demo de Pago Multi-Moneda",
+    "subtitle": "Experimenta pagos fluidos en múltiples idiomas y monedas"
+  },
+  "language": {
+    "switch": "Cambiar Idioma",
+    "english": "English",
+    "chinese": "中文",
+    "spanish": "Español",
+    "french": "Français"
+  },
+  "payment": {
+    "title": "Elige Tu Pago",
+    "selectCurrency": "Seleccionar Moneda",
+    "amount": "Cantidad",
+    "payNow": "Pagar Ahora",
+    "processing": "Procesando...",
+    "success": "¡Pago Exitoso!",
+    "error": "Pago Fallido",
+    "description": "Paquete de Servicio Premium"
+  },
+  "currency": {
+    "usd": "Dólar Estadounidense",
+    "eur": "Euro",
+    "cny": "Yuan Chino",
+    "jpy": "Yen Japonés",
+    "gbp": "Libra Esterlina"
+  },
+  "features": {
+    "title": "Características",
+    "multiCurrency": "Soporte Multi-Moneda",
+    "multiCurrencyDesc": "Acepta pagos en las principales monedas mundiales",
+    "multiLanguage": "Interfaz Multi-Idioma",
+    "multiLanguageDesc": "Experiencia fluida en múltiples idiomas",
+    "secure": "Pagos Seguros",
+    "secureDesc": "Impulsado por Stripe para máxima seguridad"
+  }
+} 

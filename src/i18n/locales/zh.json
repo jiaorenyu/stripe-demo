@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "多币种支付演示",
+    "subtitle": "体验无缝的多语言多币种支付服务"
+  },
+  "language": {
+    "switch": "切换语言",
+    "english": "English",
+    "chinese": "中文",
+    "spanish": "Español",
+    "french": "Français"
+  },
+  "payment": {
+    "title": "选择您的支付方式",
+    "selectCurrency": "选择币种",
+    "amount": "金额",
+    "payNow": "立即支付",
+    "processing": "处理中...",
+    "success": "支付成功！",
+    "error": "支付失败",
+    "description": "高级服务套餐"
+  },
+  "currency": {
+    "usd": "美元",
+    "eur": "欧元",
+    "cny": "人民币",
+    "jpy": "日元",
+    "gbp": "英镑"
+  },
+  "features": {
+    "title": "功能特性",
+    "multiCurrency": "多币种支持",
+    "multiCurrencyDesc": "支持全球主要货币支付",
+    "multiLanguage": "多语言界面",
+    "multiLanguageDesc": "多语言无缝体验",
+    "secure": "安全支付",
+    "secureDesc": "Stripe 提供最高安全保障"
+  }
+} 
